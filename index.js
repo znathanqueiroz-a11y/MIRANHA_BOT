@@ -16,6 +16,7 @@ const {PADRAO:WELCOME_PADRAO,SAIDA_PADRAO,lerImagem}=require("./handlers/configu
 const {toxicas}=require("./handlers/seguranca");
 const {tick:automsgTick}=require("./handlers/automsg");
 const animador=require("./lib/animador");
+const botLogger = require("./utils/logger");
 
 let dono="";
 let donoLid="";
@@ -170,14 +171,14 @@ async function iniciar(){
 
   sock.ev.on("connection.update",async ({connection,lastDisconnect,qr})=>{
     if(qr){
-      console.log("📱 Escaneie o QR Code:");
+botLogger.info("QR Code gerado para conexão");
+console.log("📱 Escaneie o QR Code:");
       qrcode.generate(qr,{small:true});
     }
 
     if(connection==="open"){
       reconectando=false;
-      console.log("🕷️ MIRANHA BOT ONLINE");
-    }
+botLogger.info("🕷️ MIRANHA BOT ONLINE");    }
 
     if(connection==="close"){
       clearInterval(automsgTimer);
@@ -189,7 +190,7 @@ async function iniciar(){
       }
       if(!reconectando){
         reconectando=true;
-        console.log("Reconectando...");
+botLogger.warn("Reconectando WhatsApp...");
         setTimeout(()=>iniciar().catch(e=>{reconectando=false;console.log("Erro ao reconectar:",e.message);}),3000);
       }
     }
