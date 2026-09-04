@@ -9,6 +9,7 @@
     "check": "node scripts/check-all.js"
   },
   "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@whiskeysockets/baileys": "6.7.24",
     "pino": "9.9.0",
     "qrcode-terminal": "0.12.0"
