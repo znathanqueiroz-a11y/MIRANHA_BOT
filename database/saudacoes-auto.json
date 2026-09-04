@@ -1,0 +1,24 @@
+{
+  "grupos": {
+    "120363427957761109@g.us": {
+      "ultima": "2026-08-31:tarde",
+      "ultimoEnvio": 1788197801940,
+      "periodo": "tarde"
+    },
+    "120363428570292143@g.us": {
+      "ultima": "2026-09-04:madrugada",
+      "ultimoEnvio": 1788491515068,
+      "periodo": "madrugada"
+    },
+    "120363429890688381@g.us": {
+      "ultima": "2026-09-02:noite",
+      "ultimoEnvio": 1788403101283,
+      "periodo": "noite"
+    },
+    "120363410731628600@g.us": {
+      "ultima": "2026-09-03:noite",
+      "ultimoEnvio": 1788490544254,
+      "periodo": "noite"
+    }
+  }
+}

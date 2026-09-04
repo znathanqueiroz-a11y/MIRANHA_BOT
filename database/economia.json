@@ -1,0 +1,482 @@
+{
+  "120363428570292143@g.us": {
+    "227242558939369@lid": {
+      "saldo": 1384537,
+      "xp": 12761,
+      "level": 12,
+      "ultimoDiario": 1788404664959,
+      "ultimoTrabalho": 0,
+      "inventario": {
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "21": 1,
+        "22": 1,
+        "23": 1,
+        "24": 1,
+        "25": 1,
+        "41": 1,
+        "42": 1,
+        "43": 1,
+        "44": 1,
+        "57": 1
+      },
+      "cooldowns": {
+        "trabalhar": 1788487125084,
+        "fazenda": 1788487125106,
+        "minerar": 1788487125087,
+        "pescar": 1788487125085,
+        "missao": 1788483509051,
+        "tesouro": 1788483509055,
+        "cozinhar": 1788487125100,
+        "fotografar": 1788487125102,
+        "programar": 1788487125104,
+        "reciclar": 1788487125105,
+        "premio": 1788487125109,
+        "caixamisteriosa": 1788483509068,
+        "coletar": 1788487125097,
+        "entregar": 1788487125099,
+        "explorar": 1788487125108
+      }
+    },
+    "204441131217005@lid": {
+      "saldo": 101994,
+      "xp": 4971,
+      "level": 8,
+      "ultimoDiario": 0,
+      "ultimoTrabalho": 0,
+      "inventario": {},
+      "cooldowns": {
+        "trabalhar": 1788387210505,
+        "pescar": 1788387210507,
+        "minerar": 1788387210508,
+        "missao": 1788387210518,
+        "coletar": 1788387210519,
+        "tesouro": 1788387210520,
+        "entregar": 1788387210521,
+        "cozinhar": 1788387210523,
+        "fotografar": 1788387210524,
+        "programar": 1788387210525,
+        "reciclar": 1788387210527,
+        "fazenda": 1788387210528,
+        "explorar": 1788387210529,
+        "premio": 1788387210530,
+        "caixamisteriosa": 1788387210531
+      }
+    },
+    "97569225064683@lid": {
+      "saldo": 870871,
+      "xp": 8884,
+      "level": 10,
+      "ultimoDiario": 1788195668376,
+      "ultimoTrabalho": 0,
+      "inventario": {
+        "15": 1,
+        "16": 1
+      },
+      "cooldowns": {
+        "trabalhar": 1788483540362,
+        "pescar": 1788483540364,
+        "coletar": 1788483540368,
+        "caixamisteriosa": 1788483540381,
+        "explorar": 1788483540379,
+        "tesouro": 1788483540369,
+        "minerar": 1788483540366,
+        "missao": 1788483540367,
+        "entregar": 1788483540370,
+        "cozinhar": 1788483540372,
+        "fotografar": 1788483540373,
+        "programar": 1788483540374,
+        "reciclar": 1788483540377,
+        "fazenda": 1788483540378,
+        "premio": 1788483540380
+      }
+    },
+    "197920716501136@lid": {
+      "saldo": 554206,
+      "xp": 4744,
+      "level": 7,
+      "ultimoDiario": 1788196643238,
+      "ultimoTrabalho": 0,
+      "inventario": {
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "21": 1,
+        "22": 1,
+        "41": 1,
+        "42": 1,
+        "43": 1,
+        "44": 1,
+        "45": 1,
+        "56": 1,
+        "59": 1
+      },
+      "cooldowns": {
+        "trabalhar": 1788483518556,
+        "pescar": 1788483518557,
+        "minerar": 1788483518558,
+        "missao": 1788483518560,
+        "coletar": 1788483518561,
+        "tesouro": 1788483518562,
+        "entregar": 1788483518563,
+        "cozinhar": 1788483518565,
+        "fotografar": 1788483518566,
+        "programar": 1788483518567,
+        "reciclar": 1788483518568,
+        "fazenda": 1788483518570,
+        "explorar": 1788483518571,
+        "premio": 1788483518572,
+        "caixamisteriosa": 1788483518573
+      }
+    },
+    "39793593454802@lid": {
+      "saldo": 286,
+      "xp": 21,
+      "level": 1,
+      "ultimoDiario": 0,
+      "ultimoTrabalho": 0,
+      "inventario": {},
+      "cooldowns": {
+        "trabalhar": 1788060709748
+      }
+    },
+    "261486702248042@lid": {
+      "saldo": 450189,
+      "xp": 5313,
+      "level": 8,
+      "ultimoDiario": 1788202774772,
+      "ultimoTrabalho": 0,
+      "inventario": {
+        "11": 1
+      },
+      "cooldowns": {
+        "trabalhar": 1788438031093,
+        "pescar": 1788438031097,
+        "coletar": 1788438031107,
+        "explorar": 1788438031131,
+        "caixamisteriosa": 1788438031137,
+        "tesouro": 1788438031110,
+        "minerar": 1788438031101,
+        "missao": 1788438031104,
+        "entregar": 1788438031113,
+        "cozinhar": 1788438031115,
+        "fotografar": 1788438031118,
+        "programar": 1788438031123,
+        "reciclar": 1788438031125,
+        "fazenda": 1788438031128,
+        "premio": 1788438031134
+      }
+    },
+    "35287719772185@lid": {
+      "saldo": 380835,
+      "xp": 5171,
+      "level": 8,
+      "ultimoDiario": 1788404657668,
+      "ultimoTrabalho": 0,
+      "inventario": {
+        "15": 1,
+        "17": 1,
+        "25": 1
+      },
+      "cooldowns": {
+        "trabalhar": 1788483514807,
+        "pescar": 1788483514808,
+        "minerar": 1788483514810,
+        "coletar": 1788483514812,
+        "missao": 1788483514811,
+        "tesouro": 1788483514813,
+        "reciclar": 1788483514820,
+        "caixamisteriosa": 1788483514826,
+        "cozinhar": 1788483514816,
+        "fotografar": 1788483514817,
+        "explorar": 1788483514823,
+        "entregar": 1788483514815,
+        "programar": 1788483514818,
+        "fazenda": 1788483514821,
+        "premio": 1788483514824
+      }
+    },
+    "59739388039357@lid": {
+      "saldo": 1240767,
+      "xp": 13374,
+      "level": 12,
+      "ultimoDiario": 1788404664994,
+      "ultimoTrabalho": 0,
+      "inventario": {
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 2,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 1,
+        "21": 1,
+        "22": 1,
+        "23": 1,
+        "24": 1,
+        "25": 1,
+        "41": 1,
+        "42": 1,
+        "43": 1,
+        "44": 1,
+        "45": 1
+      },
+      "cooldowns": {
+        "trabalhar": 1788483530236,
+        "pescar": 1788487097912,
+        "minerar": 1788487097924,
+        "missao": 1788483530251,
+        "coletar": 1788487097926,
+        "tesouro": 1788483530254,
+        "entregar": 1788487097929,
+        "cozinhar": 1788487097932,
+        "fotografar": 1788487097933,
+        "programar": 1788483530260,
+        "reciclar": 1788487097935,
+        "fazenda": 1788487097937,
+        "explorar": 1788487097938,
+        "premio": 1788483530266,
+        "caixamisteriosa": 1788483530268
+      }
+    },
+    "127960514310384@lid": {
+      "saldo": 669970,
+      "xp": 4515,
+      "level": 7,
+      "ultimoDiario": 0,
+      "ultimoTrabalho": 0,
+      "inventario": {},
+      "cooldowns": {
+        "trabalhar": 1788487153611,
+        "pescar": 1788487153612,
+        "minerar": 1788487153613,
+        "missao": 1788483522252,
+        "coletar": 1788487153616,
+        "tesouro": 1788483522255,
+        "entregar": 1788487153618,
+        "cozinhar": 1788487153619,
+        "fotografar": 1788487153620,
+        "programar": 1788487153621,
+        "reciclar": 1788487153622,
+        "fazenda": 1788487153624,
+        "explorar": 1788487153625,
+        "premio": 1788483522264,
+        "caixamisteriosa": 1788483522265
+      }
+    },
+    "218073072164992@lid": {
+      "saldo": 331155,
+      "xp": 1040,
+      "level": 4,
+      "ultimoDiario": 1788450025022,
+      "ultimoTrabalho": 0,
+      "inventario": {},
+      "cooldowns": {
+        "trabalhar": 1788487112565,
+        "pescar": 1788487112567,
+        "minerar": 1788487112568,
+        "missao": 1788487112569,
+        "coletar": 1788487112570,
+        "tesouro": 1788487112571,
+        "entregar": 1788487112572,
+        "cozinhar": 1788487112574,
+        "fotografar": 1788487112575,
+        "programar": 1788487112576,
+        "reciclar": 1788487112577,
+        "fazenda": 1788487112579,
+        "explorar": 1788487112580,
+        "premio": 1788487112581,
+        "caixamisteriosa": 1788487112583
+      }
+    },
+    "237353583038580@lid": {
+      "saldo": 336678,
+      "xp": 579,
+      "level": 3,
+      "ultimoDiario": 0,
+      "ultimoTrabalho": 0,
+      "inventario": {},
+      "cooldowns": {
+        "trabalhar": 1788404725465,
+        "pescar": 1788404725467,
+        "minerar": 1788404725468,
+        "missao": 1788404725470,
+        "coletar": 1788404725471,
+        "tesouro": 1788404725472,
+        "entregar": 1788404725474,
+        "cozinhar": 1788404725476,
+        "fotografar": 1788404725477,
+        "programar": 1788404725479,
+        "reciclar": 1788404725480,
+        "fazenda": 1788404725481,
+        "explorar": 1788404725483,
+        "premio": 1788404725484,
+        "caixamisteriosa": 1788404725485
+      }
+    },
+    "144380191092742@lid": {
+      "saldo": 117445,
+      "xp": 0,
+      "level": 1,
+      "ultimoDiario": 0,
+      "ultimoTrabalho": 0,
+      "inventario": {},
+      "cooldowns": {}
+    }
+  },
+  "120363427957761109@g.us": {
+    "75154159829235@lid": {
+      "saldo": 67277,
+      "xp": 0,
+      "level": 1,
+      "ultimoDiario": 0,
+      "ultimoTrabalho": 0,
+      "inventario": {},
+      "cooldowns": {}
+    },
+    "227242558939369@lid": {
+      "saldo": 97901,
+      "xp": 451,
+      "level": 3,
+      "ultimoDiario": 0,
+      "ultimoTrabalho": 0,
+      "inventario": {
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1
+      },
+      "cooldowns": {
+        "trabalhar": 1788100312446,
+        "pescar": 1788100312448,
+        "minerar": 1788100312451,
+        "missao": 1788100312452,
+        "coletar": 1788100312453,
+        "tesouro": 1788100312456,
+        "entregar": 1788100312457,
+        "cozinhar": 1788100312459,
+        "fotografar": 1788100312460,
+        "programar": 1788100312461,
+        "reciclar": 1788100312463,
+        "fazenda": 1788100312465,
+        "explorar": 1788100312466,
+        "premio": 1788100312467,
+        "caixamisteriosa": 1788100312468
+      }
+    },
+    "261486702248042@lid": {
+      "saldo": 32116,
+      "xp": 0,
+      "level": 1,
+      "ultimoDiario": 0,
+      "ultimoTrabalho": 0,
+      "inventario": {
+        "7": 1
+      },
+      "cooldowns": {}
+    },
+    "70519437148238@lid": {
+      "saldo": 22541,
+      "xp": 0,
+      "level": 1,
+      "ultimoDiario": 0,
+      "ultimoTrabalho": 0,
+      "inventario": {},
+      "cooldowns": {}
+    },
+    "226431313387765@lid": {
+      "saldo": 1845,
+      "xp": 0,
+      "level": 1,
+      "ultimoDiario": 0,
+      "ultimoTrabalho": 0,
+      "inventario": {},
+      "cooldowns": {}
+    }
+  },
+  "120363429890688381@g.us": {
+    "227242558939369@lid": {
+      "saldo": 0,
+      "xp": 0,
+      "level": 1,
+      "ultimoDiario": 0,
+      "ultimoTrabalho": 0,
+      "inventario": {},
+      "cooldowns": {}
+    },
+    "74299209736283@lid": {
+      "saldo": 64239,
+      "xp": 0,
+      "level": 1,
+      "ultimoDiario": 0,
+      "ultimoTrabalho": 0,
+      "inventario": {},
+      "cooldowns": {}
+    },
+    "261486702248042@lid": {
+      "saldo": 96406,
+      "xp": 0,
+      "level": 1,
+      "ultimoDiario": 0,
+      "ultimoTrabalho": 0,
+      "inventario": {},
+      "cooldowns": {}
+    },
+    "19525273698447@lid": {
+      "saldo": 74743,
+      "xp": 0,
+      "level": 1,
+      "ultimoDiario": 0,
+      "ultimoTrabalho": 0,
+      "inventario": {},
+      "cooldowns": {}
+    },
+    "200747241206006@lid": {
+      "saldo": 58667,
+      "xp": 0,
+      "level": 1,
+      "ultimoDiario": 0,
+      "ultimoTrabalho": 0,
+      "inventario": {},
+      "cooldowns": {}
+    },
+    "35287719772185@lid": {
+      "saldo": 7029,
+      "xp": 572,
+      "level": 3,
+      "ultimoDiario": 1788404488019,
+      "ultimoTrabalho": 0,
+      "inventario": {},
+      "cooldowns": {
+        "trabalhar": 1788404493048,
+        "pescar": 1788404493050,
+        "minerar": 1788404493051,
+        "missao": 1788404493053,
+        "coletar": 1788404493055,
+        "tesouro": 1788404493057,
+        "entregar": 1788404493058,
+        "cozinhar": 1788404493060,
+        "fotografar": 1788404493062,
+        "programar": 1788404493064,
+        "reciclar": 1788404493065,
+        "fazenda": 1788404493067,
+        "explorar": 1788404493068,
+        "premio": 1788404493070,
+        "caixamisteriosa": 1788404493071
+      }
+    }
+  }
+}

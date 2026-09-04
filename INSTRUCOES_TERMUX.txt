@@ -1,0 +1,29 @@
+MIRANHA BOT — INSTALAÇÃO RÁPIDA NO TERMUX
+
+1) Extraia a pasta MIRANHA_BOT_COMPLETO para:
+   ~/bot-whatsapp/
+
+2) Entre nela:
+   cd ~/bot-whatsapp/MIRANHA_BOT_COMPLETO
+
+3) Instale:
+   bash install.sh
+
+4) Configure o número do dono:
+   nano config/config.js
+
+5) Teste:
+   npm run check
+
+6) Inicie:
+   npm start
+
+Ao conectar, o Termux mostra:
+🕷️ MIRANHA BOT ONLINE
+
+SE VOCÊ AINDA TEM A SESSÃO ANTIGA:
+Copie a pasta auth_info_baileys para dentro da raiz deste projeto.
+
+BACKUP:
+termux-setup-storage
+bash backup.sh

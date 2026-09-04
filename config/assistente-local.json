@@ -1,0 +1,7 @@
+{
+  "cooldownSeconds": 7,
+  "maxChars": 3500,
+  "memoryMessages": 10,
+  "contextSize": 2048,
+  "maxTokens": 600
+}

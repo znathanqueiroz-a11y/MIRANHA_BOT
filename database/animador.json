@@ -1,0 +1,27 @@
+{
+  "grupos": {
+    "120363427957761109@g.us": {
+      "proximo": 1788106059795,
+      "ultimoIntervalo": 20,
+      "desativado": true,
+      "desativadoEm": 1788105481082
+    },
+    "120363428570292143@g.us": {
+      "proximo": 1788499790052,
+      "ultimoIntervalo": 25,
+      "desativado": false
+    },
+    "120363429890688381@g.us": {
+      "proximo": 1788396608221,
+      "ultimoIntervalo": 14,
+      "desativado": true,
+      "desativadoEm": 1788395829966
+    },
+    "120363410731628600@g.us": {
+      "proximo": 1788490232898,
+      "ultimoIntervalo": 21,
+      "desativado": true,
+      "desativadoEm": 1788489057836
+    }
+  }
+}

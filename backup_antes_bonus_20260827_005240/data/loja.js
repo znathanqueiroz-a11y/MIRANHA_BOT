@@ -1,0 +1,9 @@
+module.exports = {
+1:["Pizza",500],2:["Hambúrguer",450],3:["Batata Frita",300],4:["Cachorro-Quente",350],5:["Sushi",900],6:["Chocolate",250],7:["Sorvete",300],8:["Café",150],9:["Refrigerante",200],10:["Bolo",700],
+11:["Headset Gamer",3500],12:["Teclado Gamer",4500],13:["Mouse Gamer",3000],14:["Videogame",10000],15:["Celular",15000],16:["Smart TV",20000],17:["Notebook Gamer",30000],18:["PC Gamer",50000],19:["Câmera Profissional",25000],20:["Robô Miranha",100000],
+21:["Bicicleta",5000],22:["Patinete Elétrico",10000],23:["Moto",30000],24:["Carro Popular",80000],25:["SUV",150000],26:["Supercarro",500000],27:["Helicóptero",1000000],28:["Jato Particular",5000000],29:["Iate",7500000],30:["Nave Miranha",20000000],
+31:["Casa",300000],32:["Mansão",1500000],33:["Cobertura Luxo",3000000],34:["Hotel",7000000],35:["Ilha Particular",15000000],36:["Castelo Miranha",25000000],37:["Diamante Gigante",2000000],38:["Coroa Diamantes",5000000],39:["Barra Ouro",750000],40:["Cofre Milionário",10000000],
+41:["Máscara Homem-Aranha",15000],42:["Lançador Teia",30000],43:["Cartucho Teia",5000],44:["Luvas Miranha",18000],45:["Botas Miranha",22000],46:["Traje Clássico",75000],47:["Traje Sombrio",150000],48:["Traje Avançado",300000],49:["Traje Lendário",1000000],50:["Traje Supremo",5000000],
+51:["Teia Dourada",150000],52:["Teia Diamante",1000000],53:["Aranha Radioativa",500000],54:["Aranha Dourada",1500000],55:["Aranha Diamante",3000000],56:["Mochila Miranha",25000],57:["Óculos Miranha",35000],58:["Câmera do Peter",50000],59:["Clarim Diário",15000],60:["Emblema Aranha",75000],
+61:["Apartamento em Nova York",2000000],62:["Base Secreta Miranha",5000000],63:["Laboratório Teias",7500000],64:["Quartel Miranha",10000000],65:["Portal Aranhaverso",20000000],66:["Relíquia Aranhaverso",30000000],67:["Coroa Suprema Miranha",50000000],68:["Cristal Aranhaverso",75000000],69:["Trono Supremo Miranha",100000000],70:["Império Aranhaverso",250000000]
+};

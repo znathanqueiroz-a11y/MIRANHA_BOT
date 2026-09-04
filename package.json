@@ -1,0 +1,16 @@
+{
+  "name": "miranha-bot-final",
+  "version": "3.0.0",
+  "private": true,
+  "description": "Miranha Bot final - instalação limpa",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "check": "node scripts/check-all.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "6.7.24",
+    "pino": "9.9.0",
+    "qrcode-terminal": "0.12.0"
+  }
+}
