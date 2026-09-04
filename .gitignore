@@ -1,3 +1,5 @@
+config/openai.key
+*.key
 node_modules/
 auth_info_baileys/
 temp_sticker/
