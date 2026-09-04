@@ -128,9 +128,27 @@ const {state,saveCreds}=await useMultiFileAuthState(authPath);
   },30000);
   if(typeof automsgTimer.unref==="function")automsgTimer.unref();
 
-  const animadorTimer=setInterval(()=>{
-    animador.tick(sock).catch(e=>console.log("⚠️ Animador:",e.message));
-  },30000);
+  let animadorExecutando=false;
+
+const animadorTimer=setInterval(async()=>{
+  if(animadorExecutando) return;
+
+  animadorExecutando=true;
+
+  try{
+    await Promise.race([
+      animador.tick(sock),
+      new Promise((_,reject)=>
+        setTimeout(()=>reject(new Error("Animador timeout")),15000)
+      )
+    ]);
+  }catch(e){
+    console.log("⚠️ Animador:",e.message);
+  }finally{
+    animadorExecutando=false;
+  }
+
+},30000);
   if(typeof animadorTimer.unref==="function")animadorTimer.unref();
 
   async function getGroupMetadataCached(jid){
