@@ -109,7 +109,11 @@ function registrarAtividade(jid,sender){
 }
 
 async function iniciar(){
-  const {state,saveCreds}=await useMultiFileAuthState("auth_info_baileys");
+  const authPath = process.env.RENDER
+ ? "/opt/render/project/src/auth_info_baileys"
+ : "auth_info_baileys";
+
+const {state,saveCreds}=await useMultiFileAuthState(authPath);
 
   const sock=makeWASocket({
     auth:state,
