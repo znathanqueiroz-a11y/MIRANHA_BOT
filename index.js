@@ -4,6 +4,7 @@ const {
   DisconnectReason,
   jidNormalizedUser
 }=require("@whiskeysockets/baileys");
+require("./server");
 const P=require("pino");
 const qrcode=require("qrcode-terminal");
 const db=require("./lib/db");
@@ -17,6 +18,7 @@ const {toxicas}=require("./handlers/seguranca");
 const {tick:automsgTick}=require("./handlers/automsg");
 const animador=require("./lib/animador");
 const botLogger = require("./utils/logger");
+
 
 let dono="";
 let donoLid="";
