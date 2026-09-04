@@ -1,3 +1,4 @@
+require("./restaurar_sessao");
 const {
   default: makeWASocket,
   useMultiFileAuthState,

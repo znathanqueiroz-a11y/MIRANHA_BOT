@@ -1,4 +1,4 @@
-const ffmpegPath = require("@ffmpeg-installer/ffmpeg").path;
+
 const fs=require("fs");
 const path=require("path");
 const {promisify}=require("util");
@@ -347,7 +347,7 @@ module.exports=async function sticker(ctx){
     const args=["-y","-i",input];
     if(src.type==="video")args.push("-t","10");
     args.push("-vf","scale=512:512:force_original_aspect_ratio=decrease,pad=512:512:(ow-iw)/2:(oh-ih)/2:color=black@0,fps=15","-c:v","libwebp","-lossless","0","-q:v","60","-compression_level","6","-loop","0","-an",output);
-    await execFileAsync(ffmpegPath,args,{maxBuffer:30*1024*1024});
+    await execFileAsync("ffmpeg",args,{maxBuffer:30*1024*1024});
     const meta=dadosDaFigurinha(ctx);
     fs.writeFileSync(exif,criarExifFigurinha(meta.pack,meta.author));
 
